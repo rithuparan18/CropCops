@@ -89,7 +89,6 @@ Anomaly score is computed using path lengths in binary trees — spoilage outlie
 - Software modules simulated successfully  
 - Prototype assembly is scheduled for the upcoming development phase
 
----
 
-## 📁 Repository Structure
+
 
